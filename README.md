@@ -25,7 +25,6 @@ Directories 🌟🌟🌟
 
 - https://10words.io/
 - https://www.startupcosts.co/
-- https://www.indiehackers.com/
 - https://betalist.com/
 - http://www.killerstartups.com/
 - https://www.startupblink.com/
