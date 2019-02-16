@@ -1,6 +1,14 @@
+Awesome Visibility
+======
 
 Curating the best links to get visibility for your Products. 
 List of directories or Communities to submit your idea, startup, product to get visibility.
+
+You have your idea, product or even your start up ready. it's ready for the public. 
+But where do you start publishing it? To whom do you tell it? 
+
+A first starting point is this list, this list collect all communities, directories where you can post your products, startup. 
+
 
 Communities
 ------
