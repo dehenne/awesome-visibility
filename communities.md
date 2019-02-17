@@ -4,6 +4,7 @@ Communities
 Since the topic *Communities* is somewhat more complicated I would like to go here a little bit into it.
 Generally, communities should be used with caution.
 
+
 Why it is complicated?
 ------
 
@@ -55,3 +56,17 @@ You never know what the future holds.
 When I was active on Product Hunt for some time, I found more and more cool products and services. 
 I am still active on Product Hunt today and I've grown really fond of it now.
 
+In the meantime i found some really good products there. Think about posting your product in a community where you are not active.
+
+
+What can happen?
+------
+
+- In the best case, your product won't attract attention
+
+- Worst-case scenario? Your product is talked extremely badly by Influencer from the community, 
+your reputation suffers extremely from it and people still remember it after 2 years.
+
+Do you want to be remembered that way? I don't think so.
+Be helpful and try to add value for others, the rest comes all by itself in most cases. 
+And yes, damn it, it's a shitload of work!
