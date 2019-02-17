@@ -54,7 +54,6 @@ Directories 🌟🌟
 - https://growingpage.com/
 - https://launched.io/
 - https://launchlister.com/
-- https://launchlister.com/
 - https://signupfirst.com/
 - https://startup88.com/
 - https://startupbuffer.com/
