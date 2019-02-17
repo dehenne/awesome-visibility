@@ -13,24 +13,29 @@ A first starting point is this list, this list collect all communities, director
 Communities
 ------
 
-- https://www.producthunt.com/
-- https://news.ycombinator.com/
+[Little hint how to use communities](communities.md)
+
+- AngelList https://angel.co/
+- Hacker News https://news.ycombinator.com/
+- Indie Hackers https://www.indiehackers.com/
+- Makerlog https://getmakerlog.com 
+- Product Hunt https://www.producthunt.com/
+
+### Communities - Reddit
+
 - https://www.reddit.com/r/Entrepreneur/
 - https://www.reddit.com/r/startups
-- https://getmakerlog.com 
-- https://www.indiehackers.com/
-- https://angel.co/
 
 Directories 🌟🌟🌟
 ------
 
-- https://10words.io/
-- https://betalist.com/
-- http://www.killerstartups.com/
-- http://www.nextbigwhat.com/
-- https://www.startupcosts.co/
-- https://www.startupblink.com/
-- https://www.startupranking.com/
+- 10words https://10words.io/
+- Betalist https://betalist.com/
+- NextBigWhat http://www.nextbigwhat.com/
+- Startupcosts https://www.startupcosts.co/
+- Startup Blink https://www.startupblink.com/
+- Startup Ranking.com https://www.startupranking.com/
+- Startups.co http://www.killerstartups.com/
 
 Directories 🌟🌟
 ------
