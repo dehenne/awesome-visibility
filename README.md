@@ -26,11 +26,13 @@ Communities
 - https://www.reddit.com/r/Entrepreneur/
 - https://www.reddit.com/r/startups
 
+
 Directories 🌟🌟🌟
 ------
 
 - 10words https://10words.io/
 - Betalist https://betalist.com/
+- Launch Lister https://launchlister.com/
 - NextBigWhat http://www.nextbigwhat.com/
 - Startupcosts https://www.startupcosts.co/
 - Startup Blink https://www.startupblink.com/
@@ -39,40 +41,41 @@ Directories 🌟🌟🌟
 
 Directories 🌟🌟
 ------
-- http://digg.com/submit
-- http://launching.io/
-- http://promoteproject.com/
-- http://ratemystartup.com/
-- http://startuplift.com/
-- http://www.appvita.com/
-- http://www.startupproject.org/
-- http://www.startuptabs.com/
-- https://alternativeto.net/
-- https://apprater.net/
-- https://beterest.com/
-- https://feedmyapp.com/
-- https://growingpage.com/
-- https://launched.io/
-- https://launchlister.com/
-- https://signupfirst.com/
-- https://startup88.com/
-- https://startupbuffer.com/
-- https://startupstash.com/
-- https://thestartuppitch.com/
-- https://toolowl.com/
-- https://www.ampower.me/
-- https://www.betabound.com/
-- https://www.capterra.com
-- https://www.crunchbase.com/
-- https://www.discovercloud.com/
-- https://www.g2crowd.com/
-- https://www.getapp.com/
-- https://www.launchingnext.com/
-- https://www.springwise.com/
-- https://www.startupbutton.com/
-- https://www.startupinspire.com/
-- https://www.thestartupinc.com/
 
+- AlternativeTo https://alternativeto.net/
+- AppRater https://apprater.net/
+- APPVITA  http://www.appvita.com/
+- Betabound https://www.betabound.com/
+- Capterra https://www.capterra.com
+- Crunchbase https://www.crunchbase.com/
+- Digg http://digg.com/submit
+- DiscoverCloud https://www.discovercloud.com/
+- FeedMyApp https://feedmyapp.com/
+- G2 Crowd https://www.g2crowd.com/
+- GetApp https://www.getapp.com/
+- Growingpage https://growingpage.com/
+- Launched https://launched.io/
+- Launching Next https://www.launchingnext.com/
+- Launching.io http://launching.io/
+- Promoteproject http://promoteproject.com/
+- RateMyStartup http://ratemystartup.com/
+- Springwise https://www.springwise.com/
+- Startup Buffer https://startupbuffer.com/
+- Startupbutton https://www.startupbutton.com/
+- StartupInspire https://www.startupinspire.com/
+- StartUpLift http://startuplift.com/
+- StartupStash https://startupstash.com/
+- Startuptabs http://www.startuptabs.com/
+- The Startup Pitch https://thestartuppitch.com/
+- The Startup Project http://www.startupproject.org/
+- The StartupINC https://www.thestartupinc.com/
+
+
+Directories 🌟
+------
+
+- beterest https://beterest.com/ (SSL certificate error)
+- Startup88 https://startup88.com/ (Little bit strange)
 
 German
 ------
