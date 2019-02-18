@@ -32,12 +32,15 @@ Directories 🌟🌟🌟
 
 - 10words https://10words.io/
 - Betalist https://betalist.com/
+- Digg http://digg.com/submit
+- Geekwire https://www.geekwire.com/submit-startup/
 - Launch Lister https://launchlister.com/
 - NextBigWhat http://www.nextbigwhat.com/
 - Startupcosts https://www.startupcosts.co/
 - Startup Blink https://www.startupblink.com/
 - Startup Ranking.com https://www.startupranking.com/
 - Startups.co http://www.killerstartups.com/
+
 
 Directories 🌟🌟
 ------
@@ -48,8 +51,9 @@ Directories 🌟🌟
 - Betabound https://www.betabound.com/
 - Capterra https://www.capterra.com
 - Crunchbase https://www.crunchbase.com/
-- Digg http://digg.com/submit
 - DiscoverCloud https://www.discovercloud.com/
+- EU-Startups https://www.eu-startups.com/directory/
+- F6S Network Limited https://www.f6s.com/
 - FeedMyApp https://feedmyapp.com/
 - G2 Crowd https://www.g2crowd.com/
 - GetApp https://www.getapp.com/
@@ -62,20 +66,23 @@ Directories 🌟🌟
 - Springwise https://www.springwise.com/
 - Startup Buffer https://startupbuffer.com/
 - Startupbutton https://www.startupbutton.com/
-- StartupInspire https://www.startupinspire.com/
+- Startup Inspire https://www.startupinspire.com/
 - StartUpLift http://startuplift.com/
 - StartupStash https://startupstash.com/
 - Startuptabs http://www.startuptabs.com/
 - The Startup Pitch https://thestartuppitch.com/
 - The Startup Project http://www.startupproject.org/
 - The StartupINC https://www.thestartupinc.com/
+- Webwiki https://www.webwiki.com/
 
 
 Directories 🌟
 ------
 
-- beterest https://beterest.com/ (SSL certificate error)
+- Beterest https://beterest.com/ (SSL certificate error)
+- Killerstartups https://www.killerstartups.com/ (SSL certificate error)
 - Startup88 https://startup88.com/ (Little bit strange)
+
 
 German
 ------
