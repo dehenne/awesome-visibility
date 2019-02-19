@@ -12,7 +12,7 @@ A first starting point is this list, this list collect all communities, director
 **Explanation of symbols**
 
 - 💸 Free
-- 💵 Paid
+- 💰 Paid
 - 😀 Easy to use
 - 😐 not quite as easy
 
@@ -21,15 +21,15 @@ Communities
 
 [Little hint how to use communities](communities.md)
 
-- AngelList https://angel.co/ 💸, 😀
-- Hacker News https://news.ycombinator.com/ 💸, 😐
-- Indie Hackers https://www.indiehackers.com/ 💸, 😀
-- Makerlog https://getmakerlog.com  💸, 😀
-- Product Hunt https://www.producthunt.com/ 💸, 😀
+- AngelList https://angel.co/ 💸 + 😀
+- Hacker News https://news.ycombinator.com/ 💸 + 😐
+- Indie Hackers https://www.indiehackers.com/ 💸 + 😀
+- Makerlog https://getmakerlog.com  💸 + 😀
+- Product Hunt https://www.producthunt.com/ 💸 + 😀
 
 ### Communities - Reddit
 
-💸, 😀
+💸 + 😀
 
 - /r/AlphaandBetausers - https://www.reddit.com/r/alphaandbetausers/
 - /r/Coupons - https://www.reddit.com/r/coupons/
@@ -52,8 +52,8 @@ Directories 🌟🌟🌟
 - 10words https://10words.io/ 💸
 - Betalist https://betalist.com/ 💸
 - Digg http://digg.com/submit 💸
-- Launch Lister https://launchlister.com/ 💵
-- Startupcosts https://www.startupcosts.co/ 💸, 💵
+- Launch Lister https://launchlister.com/ 💰
+- Startupcosts https://www.startupcosts.co/ 💸 + 💰
 
 
 Directories 🌟🌟
@@ -116,7 +116,7 @@ Registration services
 
 *Services that add your product to the lists*
 
-- Startuplister https://startuplister.com/ (💸, 😀)
+- Startuplister https://startuplister.com/ 💸 + 😀
 
 
 ## License
