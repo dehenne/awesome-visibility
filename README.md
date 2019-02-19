@@ -9,37 +9,43 @@ But where do you start publishing it? To whom do you tell it?
 
 A first starting point is this list, this list collect all communities, directories where you can post your products, startup. 
 
+**Explanation of symbols**
+
+- 💸 Free
+- 💵 Paid
+- 😀 Easy to use
+- 😐 not quite as easy
 
 Communities
 ------
 
 [Little hint how to use communities](communities.md)
 
-- AngelList https://angel.co/
-- Hacker News https://news.ycombinator.com/
-- Indie Hackers https://www.indiehackers.com/
-- Makerlog https://getmakerlog.com 
-- Product Hunt https://www.producthunt.com/
+- AngelList https://angel.co/ (💸, 😀)
+- Hacker News https://news.ycombinator.com/ (💸, 😐)
+- Indie Hackers https://www.indiehackers.com/ (💸, 😀)
+- Makerlog https://getmakerlog.com  (💸, 😀)
+- Product Hunt https://www.producthunt.com/ (💸, 😀)
 
 ### Communities - Reddit
 
-- https://www.reddit.com/r/Entrepreneur/
-- https://www.reddit.com/r/startups
+- https://www.reddit.com/r/Entrepreneur/ (💸, 😀)
+- https://www.reddit.com/r/startups (💸, 😀)
 
 
 Directories 🌟🌟🌟
 ------
 
-- 10words https://10words.io/
-- Betalist https://betalist.com/
-- Digg http://digg.com/submit
-- Geekwire https://www.geekwire.com/submit-startup/
-- Launch Lister https://launchlister.com/
-- NextBigWhat http://www.nextbigwhat.com/
-- Startupcosts https://www.startupcosts.co/
-- Startup Blink https://www.startupblink.com/
-- Startup Ranking.com https://www.startupranking.com/
-- Startups.co http://www.killerstartups.com/
+- 10words https://10words.io/ (💸, 😀)
+- Betalist https://betalist.com/ (💸, 😀)
+- Digg http://digg.com/submit (💸, 😀)
+- Geekwire https://www.geekwire.com/submit-startup/ (💸, 😐)
+- Launch Lister https://launchlister.com/ (💵, 😀)
+- NextBigWhat http://www.nextbigwhat.com/ (💸, 😐)
+- Startupcosts https://www.startupcosts.co/ (💸, 💵, 😀)
+- Startup Blink https://www.startupblink.com/ (😐)
+- Startup Ranking.com https://www.startupranking.com/ (😐)
+- Startups.co http://www.killerstartups.com/ (💸, 😐)
 
 
 Directories 🌟🌟
@@ -95,7 +101,7 @@ Registration services
 
 *Services that add your product to the lists*
 
-- Startuplister https://startuplister.com/
+- Startuplister https://startuplister.com/ (💸, 😀)
 
 
 ## License
