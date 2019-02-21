@@ -54,47 +54,41 @@ Directories 🌟🌟🌟
 - Digg http://digg.com/submit 💸
 - Launch Lister https://launchlister.com/ 💰
 - Startupcosts https://www.startupcosts.co/ 💸 + 💰
-
+- AlternativeTo https://alternativeto.net/ 💸
 
 Directories 🌟🌟
 ------
 
 😐
 
-- AlternativeTo https://alternativeto.net/
-- AppRater https://apprater.net/
-- APPVITA  http://www.appvita.com/
-- Betabound https://www.betabound.com/
-- Capterra https://www.capterra.com
-- Crunchbase https://www.crunchbase.com/
-- DiscoverCloud https://www.discovercloud.com/
-- EU-Startups https://www.eu-startups.com/directory/
-- F6S Network Limited https://www.f6s.com/
-- FeedMyApp https://feedmyapp.com/
-- G2 Crowd https://www.g2crowd.com/
-- Geekwire https://www.geekwire.com/submit-startup/
-- GetApp https://www.getapp.com/
-- Growingpage https://growingpage.com/
-- Launched https://launched.io/
-- Launching Next https://www.launchingnext.com/
-- Launching.io http://launching.io/
+- AppRater https://apprater.net/ 💸
+- Betabound https://www.betabound.com/ 💸
+- Capterra https://www.capterra.com 💰
+- Crunchbase https://www.crunchbase.com/ 💸 + 💰
+- DiscoverCloud https://www.discovercloud.com/ 💸
+- F6S Network Limited https://www.f6s.com/ 💸
+- FeedMyApp https://feedmyapp.com/ 💰
+- G2 Crowd https://www.g2crowd.com/ 💸 + 💰
+- Geekwire https://www.geekwire.com/submit-startup/ 💸
+- GetApp https://www.getapp.com/ 💸 + 💰
+- Growingpage https://growingpage.com/ 💸
+- Launched https://launched.io/ 💸
+- Launching Next https://www.launchingnext.com/ 💸
 - NextBigWhat http://www.nextbigwhat.com/ 💸
-- Promoteproject http://promoteproject.com/
-- RateMyStartup http://ratemystartup.com/
-- Springwise https://www.springwise.com/
-- Startup Buffer https://startupbuffer.com/
-- Startupbutton https://www.startupbutton.com/
-- Startup Blink https://www.startupblink.com/
+- Promoteproject http://promoteproject.com/ 💸
+- Springwise https://www.springwise.com/ 💰
+- Startup Buffer https://startupbuffer.com/ 💸
+- Startupbutton https://www.startupbutton.com/ 💰
+- Startup Blink https://www.startupblink.com/ 💰
 - Startups.co http://www.killerstartups.com/ 💸
-- Startup Inspire https://www.startupinspire.com/
-- StartUpLift http://startuplift.com/
-- Startup Ranking.com https://www.startupranking.com/
-- StartupStash https://startupstash.com/
-- Startuptabs http://www.startuptabs.com/
-- The Startup Pitch https://thestartuppitch.com/
-- The Startup Project http://www.startupproject.org/
-- The StartupINC https://www.thestartupinc.com/
-- Webwiki https://www.webwiki.com/
+- Startup Inspire https://www.startupinspire.com/ 💸
+- StartUpLift http://startuplift.com/ 💰
+- Startup Ranking.com https://www.startupranking.com/ 💸 + 💰
+- StartupStash https://startupstash.com/ 💸
+- Startuptabs http://www.startuptabs.com/ 💸
+- The Startup Pitch https://thestartuppitch.com/ 💸
+- The StartupINC https://www.thestartupinc.com/ 💰
+- Webwiki https://www.webwiki.com/ 💸
 
 
 Directories 🌟
@@ -104,11 +98,15 @@ Directories 🌟
 - Killerstartups https://www.killerstartups.com/ (SSL certificate error)
 - Startup88 https://startup88.com/ (Little bit strange)
 
+Only Europe
+------
+
+- EU-Startups https://www.eu-startups.com/directory/ 💸 + 😀
 
 German
 ------
 
-- https://munich.startups-list.com/
+- https://munich.startups-list.com/ 💸 + 😐
 
 
 Registration services
@@ -119,8 +117,20 @@ Registration services
 - Startuplister https://startuplister.com/ 💸 + 😀
 
 
+Dead
+------
+
+😥
+
+- Launching.io - launching.io (Twitter Auth is broken)
+- RateMyStartup - ratemystartup.com (last entry 2014)
+- The Startup Project startupproject.org (last entry 2012)
+- APPVITA - appvita.com 💸 (last entry 2015)
+
+
+
 ## License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-To the extent possible under law, [Henning leutz](https://twitter.com/de_henne) has waived all copyright and related or neighboring rights to this work.
+To the extent possible under law, [Henning Leutz](https://twitter.com/de_henne) has waived all copyright and related or neighboring rights to this work.
