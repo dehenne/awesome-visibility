@@ -79,6 +79,7 @@ Directories 🌟🌟
 
 - AppRater https://apprater.net/ 💸
 - Betabound https://www.betabound.com/ 💸
+- BetaPage https://betapage.co/ 💸 + 💰
 - Capterra https://www.capterra.com 💰
 - Crunchbase https://www.crunchbase.com/ 💸 + 💰
 - DiscoverCloud https://www.discovercloud.com/ 💸
@@ -87,12 +88,17 @@ Directories 🌟🌟
 - G2 Crowd https://www.g2crowd.com/ 💸 + 💰
 - Geekwire https://www.geekwire.com/submit-startup/ 💸
 - GetApp https://www.getapp.com/ 💸 + 💰
+- Git Hustle http://www.githustle.com/developer/projects/post 💸
 - Growingpage https://growingpage.com/ 💸
 - Launched https://launched.io/ 💸
-- Launching Next https://www.launchingnext.com/ 💸
+- Launching Next https://www.launchingnext.com/ 💸 + 💰
 - NextBigWhat http://www.nextbigwhat.com/ 💸
+- Paggu - https://www.paggu.com/ 💸
 - Promoteproject http://promoteproject.com/ 💸
+- Saasified https://saasified.co/ 💸
+- Side Projects https://www.sideprojectors.com 💸
 - Springwise https://www.springwise.com/ 💰
+- Starticorn https://starticorn.com/submit/ 💸
 - Startup Buffer https://startupbuffer.com/ 💸
 - Startupbutton https://www.startupbutton.com/ 💰
 - Startup Blink https://www.startupblink.com/ 💰
@@ -100,8 +106,11 @@ Directories 🌟🌟
 - Startup Inspire https://www.startupinspire.com/ 💸
 - StartUpLift http://startuplift.com/ 💰
 - Startup Ranking.com https://www.startupranking.com/ 💸 + 💰
+- Startup Roulette https://startuproulette.com/promote-my-startup 💸 + 💰
 - StartupStash https://startupstash.com/ 💸
 - Startuptabs http://www.startuptabs.com/ 💸
+- Startup Tracker https://startuptracker.io/ 💸
+- TechFaster http://techfaster.com/ 💸
 - The Startup Pitch https://thestartuppitch.com/ 💸
 - The StartupINC https://www.thestartupinc.com/ 💰
 - Webwiki https://www.webwiki.com/ 💸
