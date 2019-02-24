@@ -40,8 +40,9 @@ Communities
 
 ### Other ways
 
-- Shipstreams https://shipstreams.com/ 💰 + 😐 (Stream your launch / idea)
-- Write Together https://writetogether.space/ 💰 + 😐 (Write about your idea / product)
+- Shipstreams https://shipstreams.com/ 💸 + 😐 (Stream your launch / idea)
+- Showcase https://talkco.de/showcase 💸 + 😀 (Chat)
+- Write Together https://writetogether.space/ 💸 + 😐 (Write about your idea / product)
 
 ### Communities - Reddit
 
