@@ -32,15 +32,13 @@ Communities
 - Product Manager HQ https://www.productmanagerhq.com/join-the-community/ 💰 + 😀
 - WIP https://wip.chat/ 💰 + 😀
 
-Communities - Topics related
-------
+### Communities - Topics related
 
 - Behance https://www.behance.net/ 💸 + 😀 (for designer)
 - Dripple https://dribbble.com/ 💸 + 😀 (for designer)
 - instructables https://www.instructables.com/ 💸 + 😀 (more for physical products)
 
-Other ways
-------
+### Other ways
 
 - Shipstreams https://shipstreams.com/ 💰 + 😐 (Stream your launch / idea)
 - Write Together https://writetogether.space/ 💰 + 😐 (Write about your idea / product)
