@@ -41,7 +41,7 @@ Communities
 ### Other ways
 
 - Shipstreams https://shipstreams.com/ 💸 + 😐 (Stream your launch / idea)
-- talkco - Showcase https://talkco.de/showcase 💸 + 😀 (Chat)
+- talkcode - Showcase https://talkco.de/showcase 💸 + 😀 (Chat)
 - Write Together https://writetogether.space/ 💸 + 😐 (Write about your idea / product)
 
 ### Communities - Reddit
