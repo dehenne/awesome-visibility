@@ -22,10 +22,28 @@ Communities
 [Little hint how to use communities](communities.md)
 
 - AngelList https://angel.co/ 💸 + 😀
+- DEV https://dev.to/ 💸 + 😀 (only dev related stuff)
+- Glitch https://glitch.com/ 💸 + 😀
 - Hacker News https://news.ycombinator.com/ 💸 + 😐
 - Indie Hackers https://www.indiehackers.com/ 💸 + 😀
 - Makerlog https://getmakerlog.com  💸 + 😀
+- MakerPad https://www.makerpad.co/ 💸 + 😀 (in combination with Makerlog)
 - Product Hunt https://www.producthunt.com/ 💸 + 😀
+- Product Manager HQ https://www.productmanagerhq.com/join-the-community/ 💰 + 😀
+- WIP https://wip.chat/ 💰 + 😀
+
+Communities - Topics related
+------
+
+- Behance https://www.behance.net/ 💸 + 😀 (for designer)
+- Dripple https://dribbble.com/ 💸 + 😀 (for designer)
+- instructables https://www.instructables.com/ 💸 + 😀 (more for physical products)
+
+Other ways
+------
+
+- Shipstreams https://shipstreams.com/ 💰 + 😐 (Stream your launch / idea)
+- Write Together https://writetogether.space/ 💰 + 😐 (Write about your idea / product)
 
 ### Communities - Reddit
 
