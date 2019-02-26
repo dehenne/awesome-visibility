@@ -26,12 +26,12 @@ Communities
 - Glitch https://glitch.com/ 💸 + 😀
 - Hacker News https://news.ycombinator.com/ 💸 + 😐
 - Indie Hackers https://www.indiehackers.com/ 💸 + 😀
+- Maker's Kitchen https://makerskitchen.xyz/ 💸 + 😀
 - Makerlog https://getmakerlog.com  💸 + 😀
 - MakerPad https://www.makerpad.co/ 💸 + 😀 (in combination with Makerlog)
 - Product Hunt https://www.producthunt.com/ 💸 + 😀
 - Product Manager HQ https://www.productmanagerhq.com/join-the-community/ 💰 + 😀
 - WIP https://wip.chat/ 💰 + 😀
-- Maker's Kitchen https://makerskitchen.xyz/ 💸 + 😀
 
 ### Communities - Topics related
 
