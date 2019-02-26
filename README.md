@@ -31,6 +31,7 @@ Communities
 - Product Hunt https://www.producthunt.com/ 💸 + 😀
 - Product Manager HQ https://www.productmanagerhq.com/join-the-community/ 💰 + 😀
 - WIP https://wip.chat/ 💰 + 😀
+- Maker's Kitchen https://makerskitchen.xyz/ 💸 + 😀
 
 ### Communities - Topics related
 
