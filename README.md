@@ -1,6 +1,8 @@
 Awesome Visibility
 ======
 
+![Awesome Visiblity](assets/engage.png)
+
 Curating the best links to get visibility for your Products. 
 List of directories or Communities to submit your idea, startup, product to get visibility.
 
