@@ -18,6 +18,24 @@ A first starting point is this list, this list collect all communities, director
 - 😀 Easy to use
 - 😐 not quite as easy
 
+
+Table of contents
+------
+
+- Communities
+    - Communities - Topics related
+    - Other ways
+    - Communities - Reddit
+- Podcasts & Radio Shows
+- Directories
+    - Directories 🌟🌟🌟
+    - Directories 🌟🌟
+    - Directories 🌟
+    - Only Europe
+    - German
+- Registration services
+
+
 Communities
 ------
 
@@ -63,6 +81,13 @@ Communities
 - /r/SideProject - http://reddit.com/r/sideproject
 - /r/SmallBusiness - https://www.reddit.com/r/smallbusiness/
 - /r/Startups - http://reddit.com/r/startups
+
+Podcasts & Radio Shows
+------
+
+- Utopian Open Source Radio Show https://utopian.podbean.com/ 💸 + 😀
+    - Only Open Source Projects
+    - Contact via info@utopian.io or via Discord https://discord.gg/BfRjUMc
 
 Directories 🌟🌟🌟
 ------
@@ -127,13 +152,6 @@ Directories 🌟
 - Beterest https://beterest.com/ (SSL certificate error)
 - Killerstartups https://www.killerstartups.com/ (SSL certificate error)
 - Startup88 https://startup88.com/ (Little bit strange)
-
-Podcasts & Radio Shows
-------
-
-- Utopian Open Source Radio Show https://utopian.podbean.com/ 💸 + 😀
-    - Only Open Source Projects
-    - Contact via info@utopian.io or via Discord https://discord.gg/BfRjUMc
 
 Only Europe
 ------
