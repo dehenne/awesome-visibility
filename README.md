@@ -1,6 +1,8 @@
 Awesome Visibility
 ======
 
+![Awesome Visiblity](assets/engage.png)
+
 Curating the best links to get visibility for your Products. 
 List of directories or Communities to submit your idea, startup, product to get visibility.
 
@@ -26,6 +28,7 @@ Communities
 - Glitch https://glitch.com/ 💸 + 😀
 - Hacker News https://news.ycombinator.com/ 💸 + 😐
 - Indie Hackers https://www.indiehackers.com/ 💸 + 😀
+- Maker's Kitchen https://makerskitchen.xyz/ 💸 + 😀
 - Makerlog https://getmakerlog.com  💸 + 😀
 - MakerPad https://www.makerpad.co/ 💸 + 😀 (in combination with Makerlog)
 - Product Hunt https://www.producthunt.com/ 💸 + 😀
@@ -41,7 +44,7 @@ Communities
 ### Other ways
 
 - Shipstreams https://shipstreams.com/ 💸 + 😐 (Stream your launch / idea)
-- talkco - Showcase https://talkco.de/showcase 💸 + 😀 (Chat)
+- talkcode - Showcase https://talkco.de/showcase 💸 + 😀 (Chat)
 - Write Together https://writetogether.space/ 💸 + 😐 (Write about your idea / product)
 
 ### Communities - Reddit
@@ -70,6 +73,7 @@ Directories 🌟🌟🌟
 - Betalist https://betalist.com/ 💸
 - Digg http://digg.com/submit 💸
 - Launch Lister https://launchlister.com/ 💰
+- MakerAds https://makerads.xyz 💸 + 💰
 - Startupcosts https://www.startupcosts.co/ 💸 + 💰
 - AlternativeTo https://alternativeto.net/ 💸
 
