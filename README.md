@@ -22,18 +22,18 @@ A first starting point is this list, this list collect all communities, director
 Table of contents
 ------
 
-- Communities
-    - Communities - Topics related
-    - Other ways
-    - Communities - Reddit
-- Podcasts & Radio Shows
+- [Communities](#communities)
+    - [Communities - Topics related](#communities---topics-related)
+    - [Other ways](#other-ways)
+    - [Communities - Reddit](#communities---reddit)
+- [Podcasts & Radio Shows](#podcasts--radio-shows)
 - Directories
-    - Directories 🌟🌟🌟
-    - Directories 🌟🌟
-    - Directories 🌟
-    - Only Europe
-    - German
-- Registration services
+    - [Directories 🌟🌟🌟](#directories-)
+    - [Directories 🌟🌟](#directories--1)
+    - [Directories 🌟](#directories--2)
+    - [Only Europe](#only-europe)
+    - [German](#german)
+- [Registration services](#registration-services)
 
 
 Communities
