@@ -124,6 +124,13 @@ Directories 🌟
 - Killerstartups https://www.killerstartups.com/ (SSL certificate error)
 - Startup88 https://startup88.com/ (Little bit strange)
 
+Podcasts & Radio Shows
+------
+
+- Utopian Open Source Radio Show https://utopian.podbean.com/ 💸 + 😀
+    - Only Open Source Projects
+    - Contact via info@utopian.io or via Discord https://discord.gg/BfRjUMc
+
 Only Europe
 ------
 
