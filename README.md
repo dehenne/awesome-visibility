@@ -71,6 +71,7 @@ Directories 🌟🌟🌟
 - Betalist https://betalist.com/ 💸
 - Digg http://digg.com/submit 💸
 - Launch Lister https://launchlister.com/ 💰
+- MakerAds makerads.xyz 💸 + 💰
 - Startupcosts https://www.startupcosts.co/ 💸 + 💰
 - AlternativeTo https://alternativeto.net/ 💸
 
