@@ -128,7 +128,7 @@ Directories 🌟🌟
 - Saasified https://saasified.co/ 💸
 - Side Projects https://www.sideprojectors.com 💸
 - Springwise https://www.springwise.com/ 💰
-- Starticorn https://starticorn.com/submit/ 💸
+- Starticorn https://starticorn.com/submit/ 💰
 - Startup Buffer https://startupbuffer.com/ 💸
 - Startupbutton https://www.startupbutton.com/ 💰
 - Startup Blink https://www.startupblink.com/ 💰
