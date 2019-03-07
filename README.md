@@ -169,7 +169,7 @@ Registration services
 
 *Services that add your product to the lists*
 
-- Startuplister https://startuplister.com/ 💸 + 😀
+- Startuplister https://startuplister.com/ 💰 + 😀
 
 
 Dead
