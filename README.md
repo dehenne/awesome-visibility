@@ -56,7 +56,7 @@ Communities
 ### Communities - Topics related
 
 - Behance https://www.behance.net/ 💸 + 😀 (for designer)
-- Dripple https://dribbble.com/ 💸 + 😀 (for designer)
+- Dribbble https://dribbble.com/ 💸 + 😀 (for designer)
 - instructables https://www.instructables.com/ 💸 + 😀 (more for physical products)
 
 ### Other ways
