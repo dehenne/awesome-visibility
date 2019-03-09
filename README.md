@@ -99,6 +99,7 @@ Directories 🌟🌟🌟
 - Digg http://digg.com/submit 💸
 - Launch Lister https://launchlister.com/ 💰
 - MakerAds https://makerads.xyz 💸 + 💰
+- PublicBetas https://www.publicbetas.com/ 💸 + 💰
 - Startupcosts https://www.startupcosts.co/ 💸 + 💰
 - AlternativeTo https://alternativeto.net/ 💸
 
