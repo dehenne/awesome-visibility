@@ -59,12 +59,6 @@ Communities
 - Dribbble https://dribbble.com/ 💸 + 😀 (for designer)
 - instructables https://www.instructables.com/ 💸 + 😀 (more for physical products)
 
-### Other ways
-
-- Shipstreams https://shipstreams.com/ 💸 + 😐 (Stream your launch / idea)
-- talkcode - Showcase https://talkco.de/showcase 💸 + 😀 (Chat)
-- Write Together https://writetogether.space/ 💸 + 😐 (Write about your idea / product)
-
 ### Communities - Reddit
 
 💸 + 😀
@@ -81,6 +75,13 @@ Communities
 - /r/SideProject - http://reddit.com/r/sideproject
 - /r/SmallBusiness - https://www.reddit.com/r/smallbusiness/
 - /r/Startups - http://reddit.com/r/startups
+
+Other ways
+------
+
+- Shipstreams https://shipstreams.com/ 💸 + 😐 (Stream your launch / idea)
+- talkcode - Showcase https://talkco.de/showcase 💸 + 😀 (Chat)
+- Write Together https://writetogether.space/ 💸 + 😐 (Write about your idea / product)
 
 Podcasts & Radio Shows
 ------
