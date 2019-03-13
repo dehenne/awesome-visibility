@@ -79,9 +79,11 @@ Communities
 Other ways
 ------
 
+- FBA Catalog (for Amazon Sellers) https://fbacatalog.com/contact.html 💸 + 😀
 - Shipstreams https://shipstreams.com/ 💸 + 😐 (Stream your launch / idea)
 - talkcode - Showcase https://talkco.de/showcase 💸 + 😀 (Chat)
 - Write Together https://writetogether.space/ 💸 + 😐 (Write about your idea / product)
+
 
 Podcasts & Radio Shows
 ------
