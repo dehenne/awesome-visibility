@@ -56,14 +56,8 @@ Communities
 ### Communities - Topics related
 
 - Behance https://www.behance.net/ 💸 + 😀 (for designer)
-- Dripple https://dribbble.com/ 💸 + 😀 (for designer)
+- Dribbble https://dribbble.com/ 💸 + 😀 (for designer)
 - instructables https://www.instructables.com/ 💸 + 😀 (more for physical products)
-
-### Other ways
-
-- Shipstreams https://shipstreams.com/ 💸 + 😐 (Stream your launch / idea)
-- talkcode - Showcase https://talkco.de/showcase 💸 + 😀 (Chat)
-- Write Together https://writetogether.space/ 💸 + 😐 (Write about your idea / product)
 
 ### Communities - Reddit
 
@@ -82,6 +76,15 @@ Communities
 - /r/SmallBusiness - https://www.reddit.com/r/smallbusiness/
 - /r/Startups - http://reddit.com/r/startups
 
+Other ways
+------
+
+- FBA Catalog (for Amazon Sellers) https://fbacatalog.com/contact.html 💸 + 😀
+- Shipstreams https://shipstreams.com/ 💸 + 😐 (Stream your launch / idea)
+- talkcode - Showcase https://talkco.de/showcase 💸 + 😀 (Chat)
+- Write Together https://writetogether.space/ 💸 + 😐 (Write about your idea / product)
+
+
 Podcasts & Radio Shows
 ------
 
@@ -99,6 +102,7 @@ Directories 🌟🌟🌟
 - Digg http://digg.com/submit 💸
 - Launch Lister https://launchlister.com/ 💰
 - MakerAds https://makerads.xyz 💸 + 💰
+- PublicBetas https://www.publicbetas.com/ 💸 + 💰
 - Startupcosts https://www.startupcosts.co/ 💸 + 💰
 - AlternativeTo https://alternativeto.net/ 💸
 
@@ -128,7 +132,7 @@ Directories 🌟🌟
 - Saasified https://saasified.co/ 💸
 - Side Projects https://www.sideprojectors.com 💸
 - Springwise https://www.springwise.com/ 💰
-- Starticorn https://starticorn.com/submit/ 💸
+- Starticorn https://starticorn.com/submit/ 💰
 - Startup Buffer https://startupbuffer.com/ 💸
 - Startupbutton https://www.startupbutton.com/ 💰
 - Startup Blink https://www.startupblink.com/ 💰
@@ -169,8 +173,8 @@ Registration services
 
 *Services that add your product to the lists*
 
-- Startuplister https://startuplister.com/ 💸 + 😀
-- Instaaa https://www.instaaa.com/ 💸 + 😐
+- Startuplister https://startuplister.com/  💰 + 😀
+- Instaaa https://www.instaaa.com/  💰 + 😐
 
 
 Dead
