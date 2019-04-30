@@ -170,6 +170,7 @@ Registration services
 *Services that add your product to the lists*
 
 - Startuplister https://startuplister.com/ 💸 + 😀
+- Instaaa https://www.instaaa.com/ 💸 + 😐
 
 
 Dead
