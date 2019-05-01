@@ -173,8 +173,9 @@ Registration services
 
 *Services that add your product to the lists*
 
-- Startuplister https://startuplister.com/  💰 + 😀
+- Aidem Network https://www.aidem.network/ 💰 + 😀
 - Instaaa https://www.instaaa.com/  💰 + 😐
+- Startuplister https://startuplister.com/  💰 + 😀
 
 
 Dead
