@@ -51,6 +51,7 @@ Communities
 - MakerPad https://www.makerpad.co/ 💸 + 😀 (in combination with Makerlog)
 - Product Hunt https://www.producthunt.com/ 💸 + 😀
 - Product Manager HQ https://www.productmanagerhq.com/join-the-community/ 💰 + 😀
+- Projectilo https://projectilo.com/ 💸 + 😀
 - WIP https://wip.chat/ 💰 + 😀
 
 ### Communities - Topics related
@@ -181,6 +182,8 @@ Registration services
 Dead
 ------
 
+these links look like they're dead.
+
 😥
 
 - Launching.io - launching.io (Twitter Auth is broken)
@@ -190,7 +193,8 @@ Dead
 
 
 
-## License
+ License
+------
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
