@@ -192,6 +192,14 @@ these links look like they're dead.
 - APPVITA - appvita.com 💸 (last entry 2015)
 
 
+On my own behalf
+------
+
+Since I am very busy and it can happen from time to time that I don't notice new links, 
+issues or PRs directly, you can also contact me in another way.
+
+You're welcome to write me on Twitter (🐦 https://twitter.com/de_henne)
+
 
  License
 ------
