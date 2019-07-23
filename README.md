@@ -176,7 +176,9 @@ Registration services
 
 - Aidem Network https://www.aidem.network/ 💰 + 😀
 - Instaaa https://www.instaaa.com/  💰 + 😐
+- Listhour http://listhour.com/ 💰 + 😀
 - Startuplister https://startuplister.com/  💰 + 😀
+
 
 
 Dead
