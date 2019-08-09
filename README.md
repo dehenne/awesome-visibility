@@ -51,6 +51,7 @@ Communities
 - MakerPad https://www.makerpad.co/ 💸 + 😀 (in combination with Makerlog)
 - Product Hunt https://www.producthunt.com/ 💸 + 😀
 - Product Manager HQ https://www.productmanagerhq.com/join-the-community/ 💰 + 😀
+- Projectilo https://projectilo.com/ 💸 + 😀
 - WIP https://wip.chat/ 💰 + 😀
 
 ### Communities - Topics related
@@ -176,11 +177,15 @@ Registration services
 
 - Aidem Network https://www.aidem.network/ 💰 + 😀
 - Instaaa https://www.instaaa.com/  💰 + 😐
+- Listhour http://listhour.com/ 💰 + 😀
 - Startuplister https://startuplister.com/  💰 + 😀
+
 
 
 Dead
 ------
+
+these links look like they're dead.
 
 😥
 
@@ -190,8 +195,17 @@ Dead
 - APPVITA - appvita.com 💸 (last entry 2015)
 
 
+On my own behalf
+------
 
-## License
+Since I am very busy and it can happen from time to time that I don't notice new links, 
+issues or PRs directly, you can also contact me in another way.
+
+You're welcome to write me on Twitter (🐦 https://twitter.com/de_henne)
+
+
+ License
+------
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
