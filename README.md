@@ -169,6 +169,14 @@ German
 
 - https://munich.startups-list.com/ 💸 + 😐
 
+French
+------
+
+- http://www.jaimelesstartups.fr/ 💸 + 😀
+- https://lespepitestech.com/ 💸 + 😐 / 💰 + 😀
+- https://www.myfrenchstartup.com/fr/
+- https://www.usine-digitale.fr/annuaire-start-up/
+
 
 Registration services
 ------
