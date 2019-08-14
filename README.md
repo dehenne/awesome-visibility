@@ -150,6 +150,7 @@ Directories 🌟🌟
 - The Startup Pitch https://thestartuppitch.com/ 💸
 - The StartupINC https://www.thestartupinc.com/ 💰
 - Webwiki https://www.webwiki.com/ 💸
+- List of test assignments for developers https://github.com/Devit951/Test-Assignments 💸 + 😀
 
 
 Directories 🌟
