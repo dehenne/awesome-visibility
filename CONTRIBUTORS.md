@@ -5,3 +5,4 @@ Many thanks to all of you who have helped to create this list
 - James Ivings (https://squarecat.io)
 - Bruce Roettgers (https://github.com/bcye)
 - Robert DeVore (https://twitter.com/deviorobert)
+- Jérémie Zarca (https://twitter.com/jzarca01)
