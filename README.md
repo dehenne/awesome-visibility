@@ -11,6 +11,16 @@ But where do you start publishing it? To whom do you tell it?
 
 A first starting point is this list, this list collect all communities, directories where you can post your products, startup. 
 
+
+**Hint**
+
+This list is also available as apps
+
+- [Website & Feature List](https://startup-promotion-list.quiqqer.com/)
+- [iOS](https://apps.apple.com/app/startup-promotion-list/id1484370969)
+- [Android](https://play.google.com/store/apps/details?id=de.pcsg.startuppromotionlist&hl=de)
+
+
 **Explanation of symbols**
 
 - 💸 Free
