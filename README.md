@@ -56,12 +56,10 @@ Communities
 - Glitch https://glitch.com/ 💸 + 😀
 - Hacker News https://news.ycombinator.com/ 💸 + 😐
 - Indie Hackers https://www.indiehackers.com/ 💸 + 😀
-- Maker's Kitchen https://makerskitchen.xyz/ 💸 + 😀
 - Makerlog https://getmakerlog.com  💸 + 😀
 - MakerPad https://www.makerpad.co/ 💸 + 😀 (in combination with Makerlog)
 - Product Hunt https://www.producthunt.com/ 💸 + 😀
 - Product Manager HQ https://www.productmanagerhq.com/join-the-community/ 💰 + 😀
-- Projectilo https://projectilo.com/ 💸 + 😀
 - WIP https://wip.chat/ 💰 + 😀
 
 ### Communities - Topics related
@@ -100,9 +98,7 @@ Other ways
 Podcasts & Radio Shows
 ------
 
-- Utopian Open Source Radio Show https://utopian.podbean.com/ 💸 + 😀
-    - Only Open Source Projects
-    - Contact via info@utopian.io or via Discord https://discord.gg/BfRjUMc
+- *nothing at the moment*
 
 Directories 🌟🌟🌟
 ------
@@ -114,7 +110,6 @@ Directories 🌟🌟🌟
 - Digg http://digg.com/submit 💸
 - Launch Lister https://launchlister.com/ 💰
 - MakerAds https://makerads.xyz 💸 + 💰
-- PublicBetas https://www.publicbetas.com/ 💸 + 💰
 - Startupcosts https://www.startupcosts.co/ 💸 + 💰
 - AlternativeTo https://alternativeto.net/ 💸
 
@@ -134,7 +129,6 @@ Directories 🌟🌟
 - G2 Crowd https://www.g2crowd.com/ 💸 + 💰
 - Geekwire https://www.geekwire.com/submit-startup/ 💸
 - GetApp https://www.getapp.com/ 💸 + 💰
-- Git Hustle http://www.githustle.com/developer/projects/post 💸
 - Growingpage https://growingpage.com/ 💸
 - Launched https://launched.io/ 💸
 - Launching Next https://www.launchingnext.com/ 💸 + 💰
@@ -154,7 +148,6 @@ Directories 🌟🌟
 - Startup Ranking.com https://www.startupranking.com/ 💸 + 💰
 - Startup Roulette https://startuproulette.com/promote-my-startup 💸 + 💰
 - StartupStash https://startupstash.com/ 💸
-- Startuptabs http://www.startuptabs.com/ 💸
 - Startup Tracker https://startuptracker.io/ 💸
 - TechFaster http://techfaster.com/ 💸
 - The Startup Pitch https://thestartuppitch.com/ 💸
@@ -211,6 +204,14 @@ these links look like they're dead.
 - RateMyStartup - ratemystartup.com (last entry 2014)
 - The Startup Project startupproject.org (last entry 2012)
 - APPVITA - appvita.com 💸 (last entry 2015)
+- Maker's Kitchen https://makerskitchen.xyz/ 💸 + 😀
+- Projectilo https://projectilo.com/ 💸 + 😀
+- Utopian Open Source Radio Show https://utopian.podbean.com/ 💸 + 😀
+    - Only Open Source Projects
+    - Contact via info@utopian.io or via Discord https://discord.gg/BfRjUMc
+- PublicBetas https://www.publicbetas.com/ 💸 + 💰
+- Git Hustle http://www.githustle.com/developer/projects/post 💸
+- Startuptabs http://www.startuptabs.com/ 💸
 
 
 On my own behalf
