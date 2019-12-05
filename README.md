@@ -112,6 +112,7 @@ Directories 🌟🌟🌟
 - MakerAds https://makerads.xyz 💸 + 💰
 - Startupcosts https://www.startupcosts.co/ 💸 + 💰
 - AlternativeTo https://alternativeto.net/ 💸
+- The Daily Startup Club https://thedailystartup.club 💸
 
 Directories 🌟🌟
 ------
