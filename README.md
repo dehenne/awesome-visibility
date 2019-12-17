@@ -112,6 +112,7 @@ Directories 🌟🌟🌟
 - Launch Lister https://launchlister.com/ 💰
 - MakerAds https://makerads.xyz 💸 + 💰
 - Startupcosts https://www.startupcosts.co/ 💸 + 💰
+- StartupResources https://startupresources.io/ 💸
 - AlternativeTo https://alternativeto.net/ 💸
 - The Daily Startup Club https://thedailystartup.club 💸
 
