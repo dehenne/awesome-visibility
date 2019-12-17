@@ -60,6 +60,7 @@ Communities
 - MakerPad https://www.makerpad.co/ 💸 + 😀 (in combination with Makerlog)
 - Product Hunt https://www.producthunt.com/ 💸 + 😀
 - Product Manager HQ https://www.productmanagerhq.com/join-the-community/ 💰 + 😀
+- Side Projects https://sideprojects.net/ 💸 + 😀
 - WIP https://wip.chat/ 💰 + 😀
 
 ### Communities - Topics related
