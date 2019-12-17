@@ -139,6 +139,7 @@ Directories 🌟🌟
 - NextBigWhat http://www.nextbigwhat.com/ 💸
 - Paggu - https://www.paggu.com/ 💸
 - Promoteproject http://promoteproject.com/ 💸
+- SaaSHub https://www.saashub.com/ 💸 + 💰
 - Saasified https://saasified.co/ 💸
 - Side Projects https://www.sideprojectors.com 💸
 - Springwise https://www.springwise.com/ 💰
