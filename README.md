@@ -76,7 +76,7 @@ Communities
 
 - /r/AlphaandBetausers - https://www.reddit.com/r/alphaandbetausers/
 - /r/Coupons - https://www.reddit.com/r/coupons/
-- /r/DesignCritques - https://www.reddit.com/r/design_critiques/
+- /r/DesignCritiques - https://www.reddit.com/r/design_critiques/
 - /r/Entrepreneur - http://reddit.com/r/entrepreneur
 - /r/IMadeThis - http://reddit.com/r/imadethis
 - /r/IndieBiz - https://www.reddit.com/r/indiebiz/
