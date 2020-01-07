@@ -63,6 +63,7 @@ Communities
 - Side Projects https://sideprojects.net/ 💸 + 😀
 - Webwide https://hello.webwide.io/ (for designer, devs and makers) 💸 + 😀
 - WIP https://wip.chat/ 💰 + 😀
+- Broadwise.org https://broadwise.org/ 💸 + 😀
 
 ### Communities - Topics related
 
