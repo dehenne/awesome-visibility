@@ -116,7 +116,6 @@ Directories 🌟🌟🌟
 - Startupcosts https://www.startupcosts.co/ 💸 + 💰
 - StartupResources https://startupresources.io/ 💸
 - AlternativeTo https://alternativeto.net/ 💸
-- The Daily Startup Club https://thedailystartup.club 💸
 
 Directories 🌟🌟
 ------
@@ -218,6 +217,7 @@ these links look like they're dead.
 - PublicBetas https://www.publicbetas.com/ 💸 + 💰
 - Git Hustle http://www.githustle.com/developer/projects/post 💸
 - Startuptabs http://www.startuptabs.com/ 💸
+- The Daily Startup Club https://thedailystartup.club 💸
 
 
 On my own behalf
