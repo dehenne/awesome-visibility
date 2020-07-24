@@ -110,7 +110,7 @@ Directories 🌟🌟🌟
 
 - 10words https://10words.io/ 💸
 - Betalist https://betalist.com/ 💸
-- Digg http://digg.com/submit 💸
+- Digg https://digg.com/submit-link 💸
 - Launch Lister https://launchlister.com/ 💰
 - MakerAds https://makerads.xyz 💸 + 💰
 - Startupcosts https://www.startupcosts.co/ 💸 + 💰
