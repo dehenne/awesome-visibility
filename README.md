@@ -123,6 +123,7 @@ Directories 🌟🌟
 😐
 
 - AppRater https://apprater.net/ 💸
+- Awesome Indie https://awesomeindie.com/ 💸
 - Betabound https://www.betabound.com/ 💸
 - BetaPage https://betapage.co/ 💸 + 💰
 - Capterra https://www.capterra.com 💰
