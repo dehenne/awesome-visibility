@@ -96,7 +96,7 @@ Other ways
 - Shipstreams https://shipstreams.com/ 💸 + 😐 (Stream your launch / idea)
 - talkcode - Showcase https://talkco.de/showcase 💸 + 😀 (Chat)
 - Write Together https://writetogether.space/ 💸 + 😐 (Write about your idea / product)
-
+- OyeStartups https://oyestartups.com/ - Get your Interview Published with details of your idea/prodcut
 
 Podcasts & Radio Shows
 ------
@@ -185,7 +185,6 @@ French
 - https://lespepitestech.com/ 💸 + 😐 / 💰 + 😀
 - https://www.myfrenchstartup.com/fr/ 💸 + 😀
 - https://www.usine-digitale.fr/annuaire-start-up/ 💸 + 😐
-
 
 Registration services
 ------
