@@ -60,7 +60,6 @@ Communities
 - MakerPad https://www.makerpad.co/ 💸 + 😀 (in combination with Makerlog)
 - Product Hunt https://www.producthunt.com/ 💸 + 😀
 - Product Manager HQ https://www.productmanagerhq.com/join-the-community/ 💰 + 😀
-- Webwide https://hello.webwide.io/ (for designer, devs and makers) 💸 + 😀
 - WIP https://wip.chat/ 💰 + 😀
 - Broadwise.org https://broadwise.org/ 💸 + 😀
 
