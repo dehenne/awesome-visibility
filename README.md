@@ -193,10 +193,10 @@ these links look like they're dead.
 - Projectilo projectilo.com/ 💸 + 😀
 - Utopian Open Source Radio Show utopian.podbean.com/ 💸 + 😀
     - Only Open Source Projects
-    - Contact via info@utopian.io or via Discord discord.gg/BfRjUMc
-- PublicBetas www.publicbetas.com/ 💸 + 💰
-- Git Hustle www.githustle.com/developer/projects/post 💸
-- Startuptabs www.startuptabs.com/ 💸
+    - Contact via info at utopian.io or via Discord discord.gg/BfRjUMc
+- PublicBetas publicbetas.com/ 💸 + 💰
+- Git Hustle githustle.com/developer/projects/post 💸
+- Startuptabs startuptabs.com/ 💸
 - The Daily Startup Club thedailystartup.club 💸
 - Side Projects sideprojects.net/ 💸 + 😀
 - Webwide hello.webwide.io/ (for designer, devs and makers) 💸 + 😀
@@ -207,16 +207,16 @@ these links look like they're dead.
 - OyeStartups oyestartups.com/ - Get your Interview Published with details of your idea/prodcut
 - Launch Lister launchlister.com/ 💰
 - MakerAds makerads.xyz 💸 + 💰
-- Startupcosts www.startupcosts.co/ 💸 + 💰
+- Startupcosts startupcosts.co/ 💸 + 💰
 - Growingpage growingpage.com/ 💸
 - FeedMyApp feedmyapp.com/ 💰
-- SaaSHub www.saashub.com/ 💸 + 💰
+- SaaSHub saashub.com/ 💸 + 💰
 - Saasified saasified.co/ 💸
 - Starticorn starticorn.com/submit/ 💰
 - StartUpLift startuplift.com/ 💰
 - Beterest beterest.com/ (SSL certificate error)
 - Startup88 startup88.com (Little bit strange)
-- Aidem Network www.aidem.network 💰 + 😀
+- Aidem Network aidem.network 💰 + 😀
 
 
 On my own behalf
