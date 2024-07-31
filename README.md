@@ -73,17 +73,24 @@ Communities
 
 💸 + 😀
 
+- /r/AdvancedEntrepreneur - https://reddit.com/r/advancedentrepreneur/
 - /r/AlphaandBetausers - https://www.reddit.com/r/alphaandbetausers/
 - /r/Coupons - https://www.reddit.com/r/coupons/
 - /r/DesignCritiques - https://www.reddit.com/r/design_critiques/
-- /r/Entrepreneur - http://reddit.com/r/entrepreneur
-- /r/IMadeThis - http://reddit.com/r/imadethis
+- /r/DotCom - https://reddit.com/r/DotCom/
+- /r/Entrepreneur - http://reddit.com/r/entrepreneur/
+- /r/EntrepreneurRideAlong/ - https://reddit.com/r/EntrepreneurRideAlong/
+- /r/Entrepreneurship/ - https://reddit.com/r/Entrepreneurship/
+- /r/GrowMyBusiness/ - https://reddit.com/r/growmybusiness/
+- /r/IMadeThis - http://reddit.com/r/imadethis/
 - /r/IndieBiz - https://www.reddit.com/r/indiebiz/
 - /r/LadyBusiness - https://www.reddit.com/r/ladybusiness/
-- /r/RoastMyStartup - https://www.reddit.com/r/roastmystartup
-- /r/SideProject - http://reddit.com/r/sideproject
+- /r/RoastMyStartup - https://www.reddit.com/r/roastmystartup/
+- /r/SaaS - https://reddit.com/r/SaaS/
+- /r/SideProject - http://reddit.com/r/sideproject/
 - /r/SmallBusiness - https://www.reddit.com/r/smallbusiness/
-- /r/Startups - http://reddit.com/r/startups
+- /r/startup/ - https://reddit.com/r/startup/
+- /r/Startups - http://reddit.com/r/startups/
 
 Other ways
 ------
