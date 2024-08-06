@@ -57,6 +57,7 @@ Communities
 - Indie Hackers https://www.indiehackers.com/ 💸 + 😀
 - Makerlog https://getmakerlog.com  💸 + 😀
 - MakerPad https://www.makerpad.co/ 💸 + 😀 (in combination with Makerlog)
+- MicroLaunch https://microlaunch.net/ 💸 + 😀
 - Product Hunt https://www.producthunt.com/ 💸 + 😀
 - Product Manager HQ https://www.productmanagerhq.com/join-the-community/ 💰 + 😀
 - WIP https://wip.chat/ 💰 + 😀
