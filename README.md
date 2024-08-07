@@ -113,6 +113,7 @@ Directories 🌟🌟🌟
 - Digg https://digg.com/advertising 💸
 - StartupResources https://startupresources.io/ 💸
 - AlternativeTo https://alternativeto.net/ 💸
+- Alternate Tools https://www.alternate.tools/ 💸
 
 Directories 🌟🌟
 ------
