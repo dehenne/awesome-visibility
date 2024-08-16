@@ -108,12 +108,13 @@ Directories 🌟🌟🌟
 
 😀
 
+- Alternate Tools https://www.alternate.tools/ 💸
+- AlternativeTo https://alternativeto.net/ 💸
 - 10words https://10words.io/ 💸
 - Betalist https://betalist.com/ 💸
 - Digg https://digg.com/advertising 💸
+- Indie Page https://indiepa.ge/ 💸 + 💰
 - StartupResources https://startupresources.io/ 💸
-- AlternativeTo https://alternativeto.net/ 💸
-- Alternate Tools https://www.alternate.tools/ 💸
 
 Directories 🌟🌟
 ------
