@@ -187,6 +187,18 @@ Registration services
 - Startuplister https://startuplister.com/  💰 + 😀
 
 
+Contributors
+------
+
+- dehenne (X: @de_henne)
+- jzarca01 (X: @N/A)
+- Jivings (X: @N/A)
+- alexanderisora (X: @alexanderisorax)
+- binumathew (X: @N/A)
+- calebmpeterson (X: @N/A)
+- jrhizor (X: @N/A)
+- robertdevore (X: @N/A)
+
 
 Dead
 ------
@@ -228,14 +240,13 @@ these links look like they're dead.
 - Startup88 startup88.com (Little bit strange)
 - Aidem Network aidem.network 💰 + 😀
 
-
 On my own behalf
 ------
 
 Since I am very busy and it can happen from time to time that I don't notice new links, 
 issues or PRs directly, you can also contact me in another way.
 
-You're welcome to write me on Twitter (🐦 https://twitter.com/de_henne)
+You're welcome to write me on X (🐦 https://twitter.com/de_henne)
 
 
  License
