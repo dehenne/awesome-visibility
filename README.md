@@ -71,27 +71,25 @@ Communities
 - /r/DesignCritiques - https://www.reddit.com/r/design_critiques/
 - /r/Digitalnomad - https://www.reddit.com/r/digitalnomad/
 - /r/DotCom - https://reddit.com/r/DotCom/
-- /r/Entrepreneur - http://reddit.com/r/entrepreneur/
+- /r/Entrepreneur - https://reddit.com/r/entrepreneur/
 - /r/EntrepreneurRideAlong/ - https://reddit.com/r/EntrepreneurRideAlong/
 - /r/Entrepreneurship - https://reddit.com/r/Entrepreneurship/
 - /r/Freepromote - https://www.reddit.com/r/freepromote/
 - /r/GrowMyBusiness - https://reddit.com/r/growmybusiness/
 - /r/GrowthHacking - https://www.reddit.com/r/GrowthHacking/
-- /r/IMadeThis - http://reddit.com/r/imadethis/
+- /r/IMadeThis - https://reddit.com/r/imadethis/
 - /r/IndieBiz - https://www.reddit.com/r/indiebiz/
 - /r/LadyBusiness - https://www.reddit.com/r/ladybusiness/
 - /r/Linkbuilding - https://www.reddit.com/r/linkbuilding/
 - /r/Promotereddit - https://www.reddit.com/r/promotereddit/
 - /r/RoastMyStartup - https://www.reddit.com/r/roastmystartup/
 - /r/SaaS - https://reddit.com/r/SaaS/
-- /r/SideProject - http://reddit.com/r/sideproject/
+- /r/SideProject - https://reddit.com/r/sideproject/
 - /r/SmallBusiness - https://www.reddit.com/r/smallbusiness/
 - /r/startup - https://reddit.com/r/startup/
-- /r/Startups - http://reddit.com/r/startups/
+- /r/Startups - https://reddit.com/r/startups/
 
 ### Communities - Discord
-
-Discord Communities
 
 - Everything Startup
 - Million Dollar Weekend
@@ -102,16 +100,16 @@ Discord Communities
 
 ### Communities - Slack
 
-- audienti.com/join-growmance 
-- crohacks.slack.com 
-- demandcurve.com/community
-- email.geeks.chat/#apply 
-- marketers.chat
-- onlineGeniuses.com 
-- peakfreelance.com/slack
-- productled.com
-- revgenius.com
-- superpath.co/community
+- https://audienti.com/join-growmance 
+- https://crohacks.slack.com 
+- https://demandcurve.com/community
+- https://email.geeks.chat/#apply 
+- https://marketers.chat
+- https://onlineGeniuses.com 
+- https://peakfreelance.com/slack
+- https://productled.com
+- https://revgenius.com
+- https://superpath.co/community
 
 
 Other ways
@@ -155,21 +153,21 @@ Directories 🌟🌟
 - GetApp https://www.getapp.com/ 💸 + 💰
 - Launched https://launched.io/ 💸
 - Launching Next https://www.launchingnext.com/ 💸 + 💰
-- NextBigWhat http://www.nextbigwhat.com/ 💸
+- NextBigWhat https://www.nextbigwhat.com/ 💸
 - Paggu - https://www.paggu.com/ 💸
-- Promoteproject http://promoteproject.com/ 💸
+- Promoteproject https://promoteproject.com/ 💸
 - Side Projects https://www.sideprojectors.com 💸
 - Springwise https://www.springwise.com/ 💰
 - Startup Buffer https://startupbuffer.com/ 💸
 - Startupbutton https://www.startupbutton.com/ 💰
 - Startup Blink https://www.startupblink.com/ 💰
-- Startups.co http://www.killerstartups.com/ 💸
+- Startups.co https://www.killerstartups.com/ 💸
 - Startup Inspire https://www.startupinspire.com/ 💸
 - Startup Ranking.com https://www.startupranking.com/ 💸 + 💰
 - Startup Roulette https://startuproulette.com/promote-my-startup 💸 + 💰
 - StartupStash https://startupstash.com/ 💸
 - Startup Tracker https://startuptracker.io/ 💸
-- TechFaster http://techfaster.com/ 💸
+- TechFaster https://techfaster.com/ 💸
 - The Startup Pitch https://thestartuppitch.com/ 💸
 - The StartupINC https://www.thestartupinc.com/ 💰
 - Webwiki https://www.webwiki.com/ 💸
@@ -193,7 +191,7 @@ German
 French
 ------
 
-- http://www.jaimelesstartups.fr/ 💸 + 😀
+- https://www.jaimelesstartups.fr/ 💸 + 😀
 - https://lespepitestech.com/ 💸 + 😐 / 💰 + 😀
 - https://www.myfrenchstartup.com/fr/ 💸 + 😀
 - https://www.usine-digitale.fr/annuaire-start-up/ 💸 + 😐
@@ -204,7 +202,7 @@ Registration services
 *Services that add your product to the lists*
 
 - Instaaa https://www.instaaa.com/  💰 + 😐
-- Listhour http://listhour.com/ 💰 + 😀
+- Listhour https://listhour.com/ 💰 + 😀
 - Startuplister https://startuplister.com/  💰 + 😀
 
 
@@ -273,6 +271,6 @@ You're welcome to write me on X (🐦 https://twitter.com/de_henne)
  License
 ------
 
-[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+[![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [Henning Leutz](https://twitter.com/de_henne) has waived all copyright and related or neighboring rights to this work.
