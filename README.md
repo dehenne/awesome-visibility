@@ -69,20 +69,50 @@ Communities
 - /r/AlphaandBetausers - https://www.reddit.com/r/alphaandbetausers/
 - /r/Coupons - https://www.reddit.com/r/coupons/
 - /r/DesignCritiques - https://www.reddit.com/r/design_critiques/
+- /r/Digitalnomad - https://www.reddit.com/r/digitalnomad/
 - /r/DotCom - https://reddit.com/r/DotCom/
 - /r/Entrepreneur - http://reddit.com/r/entrepreneur/
 - /r/EntrepreneurRideAlong/ - https://reddit.com/r/EntrepreneurRideAlong/
-- /r/Entrepreneurship/ - https://reddit.com/r/Entrepreneurship/
-- /r/GrowMyBusiness/ - https://reddit.com/r/growmybusiness/
+- /r/Entrepreneurship - https://reddit.com/r/Entrepreneurship/
+- /r/Freepromote - https://www.reddit.com/r/freepromote/
+- /r/GrowMyBusiness - https://reddit.com/r/growmybusiness/
+- /r/GrowthHacking - https://www.reddit.com/r/GrowthHacking/
 - /r/IMadeThis - http://reddit.com/r/imadethis/
 - /r/IndieBiz - https://www.reddit.com/r/indiebiz/
 - /r/LadyBusiness - https://www.reddit.com/r/ladybusiness/
+- /r/Linkbuilding - https://www.reddit.com/r/linkbuilding/
+- /r/Promotereddit - https://www.reddit.com/r/promotereddit/
 - /r/RoastMyStartup - https://www.reddit.com/r/roastmystartup/
 - /r/SaaS - https://reddit.com/r/SaaS/
 - /r/SideProject - http://reddit.com/r/sideproject/
 - /r/SmallBusiness - https://www.reddit.com/r/smallbusiness/
-- /r/startup/ - https://reddit.com/r/startup/
+- /r/startup - https://reddit.com/r/startup/
 - /r/Startups - http://reddit.com/r/startups/
+
+### Communities - Discord
+
+Discord Communities
+
+- Everything Startup
+- Million Dollar Weekend
+- Startup Growth Hub 
+- Startups and Entrepreneurship 
+- Starthub
+- Tech Startup Community 
+
+### Communities - Slack
+
+- audienti.com/join-growmance 
+- crohacks.slack.com 
+- demandcurve.com/community
+- email.geeks.chat/#apply 
+- marketers.chat
+- onlineGeniuses.com 
+- peakfreelance.com/slack
+- productled.com
+- revgenius.com
+- superpath.co/community
+
 
 Other ways
 ------
