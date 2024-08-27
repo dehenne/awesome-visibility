@@ -134,6 +134,7 @@ Directories 🌟🌟🌟
 - Digg https://digg.com/advertising 💸
 - Indie Page https://indiepa.ge/ 💸 + 💰
 - StartupResources https://startupresources.io/ 💸
+- 1000.tools https://1000.tools/ 💸
 
 Directories 🌟🌟
 ------
