@@ -115,6 +115,7 @@ Communities
 Other ways
 ------
 
+- Huntcaster https://huntcaster.com/ 💸 + 😀 (Maximize Your Launch: Get The Attention You Deserve)
 - Shipstreams https://shipstreams.com/ 💸 + 😐 (Stream your launch / idea)
 
 Podcasts & Radio Shows
