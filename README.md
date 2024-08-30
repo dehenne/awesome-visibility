@@ -154,6 +154,7 @@ Directories 🌟🌟
 - G2 Crowd https://www.g2crowd.com/ 💸 + 💰
 - Geekwire https://www.geekwire.com/submit-startup/ 💸
 - GetApp https://www.getapp.com/ 💸 + 💰
+- Hacker Bargains https://hacker.bargains/ 💸
 - Launched https://launched.io/ 💸
 - Launching Next https://www.launchingnext.com/ 💸 + 💰
 - NextBigWhat https://www.nextbigwhat.com/ 💸
