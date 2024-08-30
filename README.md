@@ -133,10 +133,12 @@ Directories 🌟🌟🌟
 - AlternativeTo https://alternativeto.net/ 💸
 - 10words https://10words.io/ 💸
 - Betalist https://betalist.com/ 💸
+- Confetti SaaS https://confettisaas.com/ 💸
 - Digg https://digg.com/advertising 💸
 - Indie Page https://indiepa.ge/ 💸 + 💰
 - StartupResources https://startupresources.io/ 💸
 - 1000.tools https://1000.tools/ 💸
+- 
 
 Directories 🌟🌟
 ------
@@ -148,6 +150,7 @@ Directories 🌟🌟
 - Betabound https://www.betabound.com/ 💸
 - BetaPage https://betapage.co/ 💸 + 💰
 - Capterra https://www.capterra.com 💰
+- Crazy about Startups https://crazyaboutstartups.com/ 💸
 - Crunchbase https://www.crunchbase.com/ 💸 + 💰
 - DiscoverCloud https://www.discovercloud.com/ 💸
 - F6S Network Limited https://www.f6s.com/ 💸
@@ -161,6 +164,8 @@ Directories 🌟🌟
 - Promoteproject https://promoteproject.com/ 💸
 - Side Projects https://www.sideprojectors.com 💸
 - Springwise https://www.springwise.com/ 💰
+- Startup Base https://startupbase.io/ 💸
+- StartupBeat https://startupbeat.com/ (?)
 - Startup Buffer https://startupbuffer.com/ 💸
 - Startupbutton https://www.startupbutton.com/ 💰
 - Startup Blink https://www.startupblink.com/ 💰
