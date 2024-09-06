@@ -274,7 +274,7 @@ On my own behalf
 Since I am very busy and it can happen from time to time that I don't notice new links, 
 issues or PRs directly, you can also contact me in another way.
 
-You're welcome to write me on X (🐦 https://twitter.com/de_henne)
+You're welcome to write me on X (🐦 [de_henne](https://x.com/intent/follow?screen_name=de_henne))
 
 
  License
@@ -282,4 +282,4 @@ You're welcome to write me on X (🐦 https://twitter.com/de_henne)
 
 [![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-To the extent possible under law, [Henning Leutz](https://twitter.com/de_henne) has waived all copyright and related or neighboring rights to this work.
+To the extent possible under law, [Henning Leutz]([https://twitter.com/de_henne](https://x.com/intent/follow?screen_name=de_henne)) has waived all copyright and related or neighboring rights to this work.
