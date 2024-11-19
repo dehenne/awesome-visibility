@@ -135,10 +135,10 @@ Directories 🌟🌟🌟
 - Betalist https://betalist.com/ 💸
 - Confetti SaaS https://confettisaas.com/ 💸
 - Digg https://digg.com/advertising 💸
+- disrupt500 https://www.disrupt500.com/ 💸
 - Indie Page https://indiepa.ge/ 💸 + 💰
 - StartupResources https://startupresources.io/ 💸
 - 1000.tools https://1000.tools/ 💸
-- 
 
 Directories 🌟🌟
 ------
