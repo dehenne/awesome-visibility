@@ -138,6 +138,7 @@ Directories 🌟🌟🌟
 - disrupt500 https://www.disrupt500.com/ 💸
 - Indie Page https://indiepa.ge/ 💸 + 💰
 - StartupResources https://startupresources.io/ 💸
+- Vedika https://vedika.io/ 💸 (AI-powered Vedic astrology API)
 - 1000.tools https://1000.tools/ 💸
 
 Directories 🌟🌟
