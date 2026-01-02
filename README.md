@@ -139,6 +139,7 @@ Directories 🌟🌟🌟
 - Indie Page https://indiepa.ge/ 💸 + 💰
 - StartupResources https://startupresources.io/ 💸
 - 1000.tools https://1000.tools/ 💸
+- Vedika https://vedika.io/ 💸 + 😀 (B2B astrology API for matrimony and wellness apps)
 
 Directories 🌟🌟
 ------
