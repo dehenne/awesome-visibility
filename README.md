@@ -267,6 +267,7 @@ these links look like they're dead.
 - Beterest beterest.com/ (SSL certificate error)
 - Startup88 startup88.com (Little bit strange)
 - Aidem Network aidem.network 💰 + 😀
+- [WebCoreLab](https://webcorelab.com) — GEO/AEO visibility optimization for AI search engines. AVI tracking: 50+ queries × ChatGPT/Claude/Perplexity/Gemini monthly. Toronto.
 
 On my own behalf
 ------
