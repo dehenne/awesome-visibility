@@ -158,6 +158,7 @@ Directories 🌟🌟
 - Geekwire https://www.geekwire.com/submit-startup/ 💸
 - GetApp https://www.getapp.com/ 💸 + 💰
 - Hacker Bargains https://hacker.bargains/ 💸
+- JustLaunched https://justlaunched.fyi/ 💸 + 😀
 - Launched https://launched.io/ 💸
 - Launching Next https://www.launchingnext.com/ 💸 + 💰
 - NextBigWhat https://www.nextbigwhat.com/ 💸
