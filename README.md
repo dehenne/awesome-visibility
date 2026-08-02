@@ -160,6 +160,7 @@ Directories 🌟🌟
 - Hacker Bargains https://hacker.bargains/ 💸
 - Launched https://launched.io/ 💸
 - Launching Next https://www.launchingnext.com/ 💸 + 💰
+- Launchory https://www.launchory.app 💸 + 💰
 - NextBigWhat https://www.nextbigwhat.com/ 💸
 - Paggu - https://www.paggu.com/ 💸
 - Promoteproject https://promoteproject.com/ 💸
