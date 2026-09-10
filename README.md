@@ -145,6 +145,7 @@ Directories 🌟🌟
 
 😐
 
+- 10015 Product Finder https://10015.io/product-finder 💸 + 💰
 - AppRater https://apprater.net/ 💸
 - Awesome Indie https://awesomeindie.com/ 💸
 - Betabound https://www.betabound.com/ 💸
