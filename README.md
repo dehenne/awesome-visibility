@@ -152,6 +152,7 @@ Directories 🌟🌟
 - Betabound https://www.betabound.com/ 💸
 - BetaPage https://betapage.co/ 💸 + 💰
 - Capterra https://www.capterra.com 💰
+- CodeTrendy https://codetrendy.com/ 💸 + 💰
 - Crazy about Startups https://crazyaboutstartups.com/ 💸
 - Crunchbase https://www.crunchbase.com/ 💸 + 💰
 - DiscoverCloud https://www.discovercloud.com/ 💸
