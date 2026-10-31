@@ -164,6 +164,7 @@ Directories 🌟🌟
 - Launched https://launched.io/ 💸
 - Launching Next https://www.launchingnext.com/ 💸 + 💰
 - Launchory https://www.launchory.app 💸 + 💰
+- MEDIAPRONET https://mediapronet.com/ 💸 + 💰
 - NextBigWhat https://www.nextbigwhat.com/ 💸
 - Paggu - https://www.paggu.com/ 💸
 - Promoteproject https://promoteproject.com/ 💸
