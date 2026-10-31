@@ -191,6 +191,7 @@ Directories 🌟
 ------
 
 - Killerstartups https://www.killerstartups.com/ (SSL certificate error)
+- SitePatent https://sitepatent.com/ 💸 + 😐 (free listing needs a homepage badge)
 
 Only Europe
 ------
