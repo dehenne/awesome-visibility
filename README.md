@@ -151,6 +151,7 @@ Directories 🌟🌟
 - Awesome Indie https://awesomeindie.com/ 💸
 - Betabound https://www.betabound.com/ 💸
 - BetaPage https://betapage.co/ 💸 + 💰
+- Boilerplates Directory https://boilerplates.directory/ 💸 + 💰
 - Capterra https://www.capterra.com 💰
 - Crazy about Startups https://crazyaboutstartups.com/ 💸
 - Crunchbase https://www.crunchbase.com/ 💸 + 💰
@@ -167,6 +168,7 @@ Directories 🌟🌟
 - NextBigWhat https://www.nextbigwhat.com/ 💸
 - Paggu - https://www.paggu.com/ 💸
 - Promoteproject https://promoteproject.com/ 💸
+- PWA Directory https://pwa.directory/ 💸 + 💰
 - Side Projects https://www.sideprojectors.com 💸
 - Springwise https://www.springwise.com/ 💰
 - Startup Base https://startupbase.io/ 💸
@@ -184,6 +186,7 @@ Directories 🌟🌟
 - Toolfound https://toolfound.com/ 💸 + 😀
 - The Startup Pitch https://thestartuppitch.com/ 💸
 - The StartupINC https://www.thestartupinc.com/ 💰
+- Web Apps Directory https://webapps.directory/ 💸
 - Webwiki https://www.webwiki.com/ 💸
 
 
