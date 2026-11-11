@@ -167,6 +167,7 @@ Directories 🌟🌟
 - NextBigWhat https://www.nextbigwhat.com/ 💸
 - Paggu - https://www.paggu.com/ 💸
 - Promoteproject https://promoteproject.com/ 💸
+- RoboDebut https://robodebut.com 💸 (website and startup directory; your coding agent submits the listing)
 - Side Projects https://www.sideprojectors.com 💸
 - Springwise https://www.springwise.com/ 💰
 - Startup Base https://startupbase.io/ 💸
