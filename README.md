@@ -154,19 +154,18 @@ Directories 🌟🌟
 - Capterra https://www.capterra.com 💰
 - Crazy about Startups https://crazyaboutstartups.com/ 💸
 - Crunchbase https://www.crunchbase.com/ 💸 + 💰
-- DiscoverCloud https://www.discovercloud.com/ 💸
 - F6S Network Limited https://www.f6s.com/ 💸
 - G2 Crowd https://www.g2crowd.com/ 💸 + 💰
 - Geekwire https://www.geekwire.com/submit-startup/ 💸
 - GetApp https://www.getapp.com/ 💸 + 💰
 - Hacker Bargains https://hacker.bargains/ 💸
 - JustLaunched https://justlaunched.fyi/ 💸 + 😀
-- Launched https://launched.io/ 💸
 - Launching Next https://www.launchingnext.com/ 💸 + 💰
 - Launchory https://www.launchory.app 💸 + 💰
 - NextBigWhat https://www.nextbigwhat.com/ 💸
 - Paggu - https://www.paggu.com/ 💸
 - Promoteproject https://promoteproject.com/ 💸
+- SaaSCity https://saascity.io/ 💸 + 😀 (Interactive 3D SaaS & startup launch directory; also publishes a [free dofollow directories list](https://saascity.io/free-dofollow-directories))
 - Side Projects https://www.sideprojectors.com 💸
 - Springwise https://www.springwise.com/ 💰
 - Startup Base https://startupbase.io/ 💸
@@ -217,7 +216,6 @@ Registration services
 
 - Instaaa https://www.instaaa.com/  💰 + 😐
 - Listhour https://listhour.com/ 💰 + 😀
-- Startuplister https://startuplister.com/  💰 + 😀
 
 
 Contributors
@@ -243,7 +241,6 @@ these links look like they're dead.
 - Launching.io - launching.io (Twitter Auth is broken)
 - RateMyStartup - ratemystartup.com (last entry 2014)
 - The Startup Project startupproject.org (last entry 2012)
-- APPVITA - appvita.com 💸 (last entry 2015)
 - Maker's Kitchen makerskitchen.xyz/ 💸 + 😀
 - Projectilo projectilo.com/ 💸 + 😀
 - Utopian Open Source Radio Show utopian.podbean.com/ 💸 + 😀
@@ -264,7 +261,6 @@ these links look like they're dead.
 - MakerAds makerads.xyz 💸 + 💰
 - Startupcosts startupcosts.co/ 💸 + 💰
 - Growingpage growingpage.com/ 💸
-- FeedMyApp feedmyapp.com/ 💰
 - SaaSHub saashub.com/ 💸 + 💰
 - Saasified saasified.co/ 💸
 - Starticorn starticorn.com/submit/ 💰
